@@ -1,0 +1,25 @@
+{
+	"name": "웹사이트 이름",
+	"short_name": "웹사이트 이름",
+	"description": "웹사이트 소개",
+	"dir": "ltr",
+	"lang": "ko",
+	"icons": [
+		{
+			"src": "./images/launcher-icon-192.png",
+			"sizes": "192x192",
+			"type": "image/png"
+		},
+		{
+			"src": "./images/launcher-icon-512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	],
+	"display": "standalone",
+	"background_color": "#323232",
+	"theme_color": "#323232",
+	"orientation": "natural",
+	"start_url": "/",
+	"categories": ["키워드"]
+}
